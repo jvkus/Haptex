@@ -1,0 +1,7 @@
+*.log
+*Touchtex.vcxproj
+Touchtex/Debug/
+*/lib/linux*
+*/lib/osx
+.vs/
+Touchtex/x64/
